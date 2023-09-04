@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Pisano</h1>
 <h3 align="center">I'm full stack developer from Argentina.</h3>
 
-- 🔭 I’m currently working on [Stroopwafels market](https://github.com/LucasPisano/tienda-stroop)
+- 🔭 I’m currently working on [Stroopwafels market]([https://github.com/LucasPisano/tienda-stroop](https://github.com/LucasPisano/ProyectoJSPisano))
 
 - 👨‍💻 All of my projects are available at [https://github.com/LucasPisano?tab=repositories](https://github.com/LucasPisano?tab=repositories)
 
